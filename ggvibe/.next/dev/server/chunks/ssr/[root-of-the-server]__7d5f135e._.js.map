@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/runner/workspace/ggvibe/pages/index.js"],"sourcesContent":["export default function Home() {\n  return (\n    <main style={{ display: \"flex\", minHeight: \"100vh\", alignItems: \"center\", justifyContent: \"center\", background: \"black\", color: \"white\", flexDirection: \"column\" }}>\n      <h1>GGVIBE Next.js is running</h1>\n      <p>Backend + TikTok UI will be wired up next.</p>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,qKAAC;QAAK,OAAO;YAAE,SAAS;YAAQ,WAAW;YAAS,YAAY;YAAU,gBAAgB;YAAU,YAAY;YAAS,OAAO;YAAS,eAAe;QAAS;;0BAC/J,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
-}
